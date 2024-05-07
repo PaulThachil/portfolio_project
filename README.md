@@ -4,7 +4,7 @@
 ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-{Portfolio](https://www.paulthachil.me/)
+[Portfolio](https://www.paulthachil.me/)
 
 In this project, I created a responsive and visually engaging portfolio website using HTML and a Bootstrap template. I used GitHub for version control and hosting, which made it easy to collaborate and keep the project up to date. The portfolio features a clean design, intuitive navigation, and is compatible with various devices.
 
