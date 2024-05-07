@@ -4,7 +4,7 @@
 ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-[url to running project](https://www.paulthachil.me/)
+(https://www.paulthachil.me/)
 
 Simple description
 
