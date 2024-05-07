@@ -9,7 +9,8 @@
 In this project, I created a responsive and visually engaging portfolio website using HTML and a Bootstrap template. I used GitHub for version control and hosting, which made it easy to collaborate and keep the project up to date. The portfolio features a clean design, intuitive navigation, and is compatible with various devices.
 
 ---
-PorfolioSS.png
+![Alt Text](js/PorfolioSS.png)
+
 ```
 ---
 
