@@ -18,9 +18,4 @@ I explored HTML and its integration with cookie popups, giving me hands-on exper
 ---
 
 
-```
 
----
-
-## Change log
-date: developer -- change(s) made
