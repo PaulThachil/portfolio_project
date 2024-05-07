@@ -13,7 +13,7 @@ In this project, I created a responsive and visually engaging portfolio website 
 Logo or screenshot
 Commit image to repository and link to it.  
 ```
-![alt text for image](https://github.com/mikecolbert/test/blob/main/test.png) 
+![alt text for image](https://github.com/PaulThachil/portfolio_project/blob/main/PortfolioSS.png) 
 ```
 ---
 
